@@ -1,6 +1,6 @@
 ### Hi there, I'm Solomon. 👋
 
-Computer Scientist sharing about my journey in Fullstack coding. <br>
+Computer Scientist. <br>
 I study Computer Science at Murang'a University of Technology, Kenya, <br>
 Currently learning [Fullstack](https://frontendmasters.com/) and [intro to cyber security](https://skillsforall.com/). <br>
 
